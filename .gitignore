@@ -1,0 +1,12 @@
+# Project place file
+/Rojo.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# Local Roblox backups
+*.rbxl
+*.rbxlx

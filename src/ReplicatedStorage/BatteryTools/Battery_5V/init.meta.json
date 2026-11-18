@@ -1,0 +1,14 @@
+{
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "ExplorerIconContent": {
+      "Content": "None"
+    }
+  },
+  "attributes": {
+    "Voltage": 5.0
+  },
+  "className": "Tool"
+}

@@ -1,0 +1,14 @@
+{
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "ExplorerIconContent": {
+      "Content": "None"
+    }
+  },
+  "attributes": {
+    "LearningFocus": "Skip Counting",
+    "RequiresChunking": false
+  }
+}

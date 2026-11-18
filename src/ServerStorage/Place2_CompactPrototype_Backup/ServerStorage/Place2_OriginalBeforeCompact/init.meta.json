@@ -1,0 +1,29 @@
+{
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "ExplorerIconContent": {
+      "Content": "None"
+    }
+  },
+  "attributes": {
+    "Lighting_Ambient": {
+      "Color3": [
+        0.27450982,
+        0.27450982,
+        0.27450982
+      ]
+    },
+    "Lighting_Brightness": 3.0,
+    "Lighting_ClockTime": 14.5,
+    "Lighting_ExposureCompensation": 0.0,
+    "Lighting_OutdoorAmbient": {
+      "Color3": [
+        0.27450982,
+        0.27450982,
+        0.27450982
+      ]
+    }
+  }
+}

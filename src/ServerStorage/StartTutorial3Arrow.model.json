@@ -1,0 +1,9 @@
+{
+  "className": "BindableEvent",
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "Sandboxed": true
+  }
+}

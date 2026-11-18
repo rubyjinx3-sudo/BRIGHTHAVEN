@@ -1,0 +1,14 @@
+{
+  "className": "Sound",
+  "properties": {
+    "Volume": 0.0,
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "Tags": [
+      "Assistant:cfdd4959-c0d0-4f01-bca0-0d043ee7af1a"
+    ],
+    "SourceAssetId": 9120018411.0,
+    "AudioContent": "rbxassetid://9120018411"
+  }
+}

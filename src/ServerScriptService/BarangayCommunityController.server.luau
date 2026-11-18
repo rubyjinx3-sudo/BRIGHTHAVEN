@@ -1,0 +1,1 @@
+require(script.Parent.BarangayCommunityService).Init()

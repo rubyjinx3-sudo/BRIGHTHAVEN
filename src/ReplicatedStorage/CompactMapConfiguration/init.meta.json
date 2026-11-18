@@ -1,0 +1,38 @@
+{
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "ExplorerIconContent": {
+      "Content": "None"
+    }
+  },
+  "attributes": {
+    "AreaReductionPercent": 85.0,
+    "CommunityHomes": 12.0,
+    "Depth": 650.0,
+    "FilipinoTreeCount": 115.0,
+    "GameActivities": 35.0,
+    "LayoutVersion": 5.0,
+    "MountainEnclosure": true,
+    "NormalVehicleSize": true,
+    "Origin": {
+      "Vector3": [
+        0.0,
+        -143.67,
+        0.0
+      ]
+    },
+    "PackedLocations": true,
+    "PracticeGames": 3.0,
+    "ReachableClassrooms": 7.0,
+    "RoamingCarLimit": 2.0,
+    "Scale": 0.8,
+    "ShuttleLayby": true,
+    "SourcePlaceId": 83710293467468.0,
+    "TownFleetCount": 6.0,
+    "TutorialsOriginalSize": true,
+    "UtilityPosts": 6.0,
+    "Width": 720.0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "ExplorerIconContent": {
+      "Content": "None"
+    },
+    "CanBeDropped": false
+  },
+  "className": "Tool"
+}

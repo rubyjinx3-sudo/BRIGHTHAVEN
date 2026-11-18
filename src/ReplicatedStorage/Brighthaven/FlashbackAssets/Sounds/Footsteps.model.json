@@ -1,0 +1,10 @@
+{
+  "className": "Sound",
+  "properties": {
+    "Volume": 0.0,
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "AudioContent": "rbxasset://sounds/action_footsteps_plastic.mp3"
+  }
+}

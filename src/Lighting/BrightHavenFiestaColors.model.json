@@ -1,0 +1,22 @@
+{
+  "className": "ColorCorrectionEffect",
+  "properties": {
+    "ColorLutContent": {
+      "Content": "None"
+    },
+    "Brightness": 0.009999999776482582,
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "Contrast": 0.03500000014901161,
+    "Saturation": 0.11999999731779099,
+    "ColorLutIntensity": {
+      "Float32": 1.0
+    },
+    "TintColor": [
+      1.0,
+      0.9921568632125854,
+      0.9686274528503418
+    ]
+  }
+}

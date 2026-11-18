@@ -1,0 +1,140 @@
+{
+  "name": "Brighthaven",
+  "tree": {
+    "$className": "DataModel",
+    "Lighting": {
+      "$properties": {
+        "Ambient": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Brightness": 3.0,
+        "ColorShift_Top": [
+          0.8235294818878174,
+          0.46666669845581055,
+          0.8352941870689392
+        ],
+        "EnvironmentDiffuseScale": 1.0,
+        "EnvironmentSpecularScale": 1.0,
+        "FogColor": [
+          0.5490196347236633,
+          0.5921568870544434,
+          0.5921568870544434
+        ],
+        "FogEnd": 520.0,
+        "GeographicLatitude": 18.896991729736328,
+        "GlobalShadows": true,
+        "LightAttenuationMode": {
+          "Enum": 0
+        },
+        "OutdoorAmbient": [
+          0.29411765933036804,
+          0.35686275362968445,
+          0.5098039507865906
+        ],
+        "Outlines": false,
+        "PrioritizeLightingQuality": true,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "ShadowSoftness": 1.0,
+        "Technology": "ShadowMap",
+        "TimeOfDay": "09:30:00"
+      },
+      "$path": "src/Lighting"
+    },
+    "ReplicatedFirst": {
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ReplicatedFirst"
+    },
+    "ReplicatedStorage": {
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ServerScriptService"
+    },
+    "ServerStorage": {
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/ServerStorage"
+    },
+    "SoundService": {
+      "$properties": {
+        "DefaultListenerLocation": "Camera",
+        "RespectFilteringEnabled": true,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/SoundService"
+    },
+    "StarterGui": {
+      "$properties": {
+        "ScreenOrientation": "Sensor",
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/StarterGui"
+    },
+    "StarterPack": {
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/StarterPack"
+    },
+    "StarterPlayer": {
+      "$properties": {
+        "AvatarJointUpgrade": "Enabled",
+        "CameraMaxZoomDistance": 128.0,
+        "CharacterBreakJointsOnDeath": false,
+        "CharacterUseJumpPower": false,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "UseImprovedCharacterEvents": {
+          "Enum": 0
+        }
+      },
+      "$path": "src/StarterPlayer"
+    },
+    "Teams": {
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/Teams"
+    },
+    "TextChatService": {
+      "$properties": {
+        "ChatVersion": "TextChatService",
+        "IsLegacyChatDisabled": true,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$path": "src/TextChatService"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "className": "Vector3Value",
+  "properties": {
+    "SerializedOverrides": {
+      "BinaryString": ""
+    },
+    "Value": [
+      0.0,
+      -1.0,
+      0.0
+    ]
+  }
+}
